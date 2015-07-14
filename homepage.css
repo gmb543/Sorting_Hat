@@ -1,10 +1,13 @@
 
-
+logindiv {
+	margin-right: 100px;
+}
 
 loginbutton {
 	background-color: blue;
+	margin-right: 50px;
 }
 
 body {
-	background-color: grey;
+	background-color: #0000FF;
 }
